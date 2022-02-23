@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The horrid, direful, prodigious and diabolical practice of the Jesuits discovered fully laying open the means, manner and circumstances whereby they inveagle and seduce inhumanely some unwary Protestants to the utter ruine and damnation of their souls : seasonably offered for the good of three nations / by E.G.</title>
+            <author>E. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41504</idno>
+            <idno type="STC">Wing G12</idno>
+            <idno type="STC">ESTC R25090</idno>
+            <idno type="EEBO-CITATION">08751693</idno>
+            <idno type="OCLC">ocm 08751693</idno>
+            <idno type="VID">41735</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41735)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1259:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The horrid, direful, prodigious and diabolical practice of the Jesuits discovered fully laying open the means, manner and circumstances whereby they inveagle and seduce inhumanely some unwary Protestants to the utter ruine and damnation of their souls : seasonably offered for the good of three nations / by E.G.</title>
+                  <author>E. G.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed, Feb. 20, 1679."</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  Great Britain --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41735:1"/>
+            <pb facs="tcp:41735:1" rendition="simple:additions"/>
+            <p>THE <hi>Horrid, Direful, Prodigious,</hi> AND <hi>DIABOLICAL PRACTICE</hi> OF THE JESUITS DISCOVERED.</p>
+            <p>Fully laying open The <hi>Means, Manner,</hi> and <hi>Circumſtances,</hi> whereby they inveagle and ſeduce inhumanely, ſome <hi>
+                  <g ref="char:V">Ʋ</g>nwary Proteſtants,</hi> to the utter Ruine and Damnation of their <hi>Souls.</hi>
+            </p>
+            <p>Seaſonably offered for the good of the Three NATIONS.</p>
+            <p>By a Lover of the Church of <hi>England, E. G.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED,</p>
+                        <closer>
+                           <dateline>
+                              <date>Feb. 20. 1679.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. C.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:41735:2"/>
+            <pb n="1" facs="tcp:41735:2"/>
+            <head>THE <hi>Horrid, Direful, Prodigious,</hi> AND <hi>DIABOLICAL PRACTICE</hi> OF THE JESUITS Diſcovered, <hi>&amp;c.</hi>
+            </head>
+            <p>THis Narrative was wrote ſeveral Months ago; but then, ſuch was the Papiſtical Intereſt, that it was thought it would be lookt upon as a Ridicule, and an aſperſion de<g ref="char:EOLhyphen"/>sign'd; and though many were well know<g ref="char:EOLhyphen"/>ing then, and thoſe conſequently of a growing and ſpreading evil, yet it could not be thought convenient to have this true Narrative blaſted.
+<pb n="2" facs="tcp:41735:3"/>But now thanks to Providence, <hi>England</hi> hath no Puppies, in the leaſt Blind, all can ſee; there<g ref="char:EOLhyphen"/>fore this truth may receive an acceptance fit for its Integrity.</p>
+            <p>The Jeſuits have plaid their pranks in all unfortunate places to which they could get ad<g ref="char:EOLhyphen"/>mittance; but this Novelty for ought I know, is one of the moſt pernicious Engines, moſt per<g ref="char:EOLhyphen"/>verting Machine, and deſtructive Inſtrument that ever could be uſed to damnation of Mor<g ref="char:EOLhyphen"/>tals Souls.</p>
+            <p>I was a little more ſhy in putting this to the World, though I had it from the hand of one whoſe veracity was as dear to him as his Life, and now will find equal credit with the inge<g ref="char:EOLhyphen"/>nious as it can merit.</p>
+            <p>A Perſon of Quality being in ſome ſtreſs beyond Sea, found the Inquiſition ſo ſevere, that he was forc'd to conſult a Jeſuit, to whoſe neat and clear conveyance into <hi>England,</hi> he ſtands oblig'd for his Life.</p>
+            <p>Some years had paſt before he met this ſame perſon again, and obſerve, how things may happen: Beyond Sea this perſon was in as
+<pb n="3" facs="tcp:41735:3"/>great Authority as moſt of his Order, and as much Reverence paid to his Dignity; but ſo now he is met in the Streets of <hi>London,</hi> in the Habit of a Coſtermonger, crying Pippins; by reaſon of the croud that then hapned, he had an opportunity fully to view this old Acquain<g ref="char:EOLhyphen"/>tance; heſitations and ſtruglings feiz'd and ſur<g ref="char:EOLhyphen"/>priz'd him, but a recollection following, ob<g ref="char:EOLhyphen"/>lig'd him to pretend to buy ſome of the Fruit, and becauſe it was not convenient in the Street, he deſir'd the Cryer to walk into a Houſe that was hard by: being of his Acquaintance, and having got him into a Room, he imbrac'd him very cordially, as one would do the perſon that had preſerv'd his Life, calling him by his name; to which he return'd, he was no ſuch man, and knew not him, that careſs'd him; but the Gentleman reply'd, he ſhould be the un<g ref="char:EOLhyphen"/>gratefulleſt Man in the World, if he did not know one, and ſerve him that had given him his Life, not without ſome danger to his own; he added, no diſguiſe could change a Face that made ſuch impreſſion in his Heart; ſo urged him with ſuch ſudden and home <hi>Memorandums,</hi>
+               <pb n="4" facs="tcp:41735:4"/>that after ſeveral Evaſions, the Jeſuit conſider<g ref="char:EOLhyphen"/>ing what obligations the perſon lay under to him, leſt worſe ſhould follow, freely declar'd he was the perſon ſuppos'd, which he ſhould not have confeſs'd to any that would not have priz'd his Life as his own. The Gentleman re<g ref="char:EOLhyphen"/>ply'd, if he was not generous he muſt be grate<g ref="char:EOLhyphen"/>ful, and bade him be as ſecure as he could wiſh. He was doubly engaged. Firſt, as a Gen<g ref="char:EOLhyphen"/>tleman to whom a ſecret was committed; Secondly, as a perſon to whom he owed his preſent being, as an inſtrument of providence: but, ſayes he, Father, in the name of Goodneſs, what makes you in this poſture? He was then a little tardy and ſhy in his Anſwers; and being interrupted by the buſy Drawer, he defer'd fur<g ref="char:EOLhyphen"/>ther inquiry until he had preſented the Jeſuit with three or four Cups of thanks, which prov'd a Key to open his myſterious mind; for he told him in ſhort, he might know by his Profeſſion and Order, that he was Educated to be a Labourer in Chriſts Cauſe; to omit no opportunity to Proſelyte the World; to bog<g ref="char:EOLhyphen"/>gle at no difficulty, to run all hazards, try all
+<pb n="5" facs="tcp:41735:4"/>means univerſally to eſtabliſh his Kingdom; you muſt note our inſtitution, firſt, was to be Chriſts Militia, for the Church of <hi>Rome</hi> found it ought to have a Lifeguard Militant, that it might be Triumphant; we are not only bred to School Divinity, the Titular Arts and Phi<g ref="char:EOLhyphen"/>loſophy, but to all ſorts of Mechanick Profeſ<g ref="char:EOLhyphen"/>ſions Theorically; but the Gentleman reply'd, That was no Anſwer to his Queſtion; what made him aſſume ſuch a ſtrange Habit? He anſwered what I laſt ſaid is more to the pur<g ref="char:EOLhyphen"/>poſe than you yet apprehend; but to be plain with you, under this Coverture I have. liberty to diſcourſe the Plebeians, and the Gregarians, and to model them into ſuch Principles as is ſuitable to my Ends; for ſuch muſt be the Inſtru<g ref="char:EOLhyphen"/>ments to reduce <hi>England</hi> to its Priſtine Religion and Happineſs: we have intereſt enough in the great ones, men of Brains will adhere to them when occaſion ſerves, but for the ſtiff-necked herd multitude, or rabble Enemies to ſenſe and reaſon, they muſt be wrought upon by ſuch operations as ſuit their paſſions, which gives Life to the glympſe of that knowledge
+<pb n="6" facs="tcp:41735:5"/>they meaſure things by; literature and reaſon they abominate as Atheiſtick. The Gentleman then ſaid, which way can you work upon them? You are ſo much my Friend, ſaid the Jeſuit, that I will tell you, becauſe I am ſure I can depend upon you; my Trade here is to in<g ref="char:EOLhyphen"/>fatuate, and Fanaticallize the Souls of the aforeſaid Droans, whoſe humming and num<g ref="char:EOLhyphen"/>ber may croud us into our deſign; for with a Powder which diſſolves undiſcernably in any liquor, drunk by any Man, Woman, or Child, I can eraſe out of their mind the memory of any thing heretofore moſt familiarly known to them, and nothing will appear but the naked paſſions which their temperature neceſſitated them to, according to which I infuſe Notions which commonly cleave to them during Life; nay, it may be it becomes ſo inherent, that it is tranſmitted to Poſterity. Do you convert them all Papiſts? ſayes the Gentleman; No, no, that will not do my buſineſs, we never concern our ſelves with any but Leading Men, whom others are glad to follow as proud Apes. You cannot tell how this Powder diveſts them
+<pb n="7" facs="tcp:41735:5"/>of all their former thoughts, and leaves nothing un-eradicated but the ſimple paſſions. Thoſe I find addicted to Love, I turn them to Ran<g ref="char:EOLhyphen"/>ters, and poſſeſs them with Amorous Affecti<g ref="char:EOLhyphen"/>ons; where I find Admiration prevalent, I clap in Notions ſtrangely myſtical, make them <hi>Praeadamites,</hi> and the like: where I find diſguſt and diſtaſt reign, thoſe I make <hi>Independents;</hi> where Antipathy, averſion, or reluctancy domineer, thoſe I turn to <hi>Anabaptiſts;</hi> where I find bold<g ref="char:EOLhyphen"/>neſs and audacity, there I fix the <hi>Pelagian</hi> Opi<g ref="char:EOLhyphen"/>nion; where I find anger and revenge, there I place perpetual animoſity and Execration, who go under the name of <hi>Muggletonians;</hi> where I find mirth and comical airyneſs, I make them everlaſting <hi>Scepticks;</hi> where I find confidence I teach preſumption, of which ſort are the <hi>Preſ<g ref="char:EOLhyphen"/>byterians;</hi> where I find hope, there I eſtabliſh the <hi>Fifth Monarchy;</hi> where. I find fears, miſ<g ref="char:EOLhyphen"/>giving and jealouſy, there I plant <hi>Quakeriſm;</hi> where I find ardent zeal, thoſe I poſſeſs with ſuch a fervency and eagerneſs of ſpirit, as turns them <hi>Witneſſes.</hi> But, ſayes the Gentleman, do you make no Papiſts at all? I anſwered you that
+<pb n="8" facs="tcp:41735:6"/>before, ſayes the Jeſuit; but if the <hi>Catholicon</hi> expoſes a perſon pityful, compaſſionate, and rich, there I ſow the Seeds of Merit, and reap a plentiful Crop to the uſe of our Church; ei<g ref="char:EOLhyphen"/>ther in their Life time, or after by their Wills. But methinks, ſaid the Gentleman, if you can do this, it may be more for your advantage to make them all Papiſts. To tell you the truth, the Engliſh turn'd <hi>Proteſtants</hi> under a damn'd Aſcendant, and their temperaments are ſo ob<g ref="char:EOLhyphen"/>ſtinate, refractory, headſtrong, willful, and naturally ſo given to treachery, that the Com<g ref="char:EOLhyphen"/>monalty are ſcarce fit to be truſted; but my buſineſs is not ſo much to Convert, as to Pervert; for we have tryed long enough in order to the firſt, and only had our labour for our pains: Now if we can but diſtract them, our aim is attain'd; for a Houſe divided cannot ſtand. We have put in their Noddles the tearm of diſ<g ref="char:EOLhyphen"/>ſenting Brethren. Sayes the Gentleman, are theſe all the ſorts you named before? Some <hi>Schiſmaticks</hi> and <hi>Hereticks</hi> there are beſides, ſays the Jeſuit; and alſo where we find deſpair, ſcorn, ſhame, envy, grief, hatred, thoſe we
+<pb n="9" facs="tcp:41735:6"/>poſſeſs with an Opinion, that there is no God at all. After a Bottle or two had paſt, the Je<g ref="char:EOLhyphen"/>ſuit told the Gentleman, he ſeem'd to diſtruſt what he had reveal'd; but ſince he ſaw that he had a Man out, if he gave him leave to call him in, he would preſent him with a Pippin, into which he put two Grains of yellowiſh Powder, which he promis'd ſhould do him no harm; the Fellow eat the Pippin greedily, but with<g ref="char:EOLhyphen"/>in leſs than an hour, he appear'd ſomething Frantick, and ſaid he found a numneſs and ſtu<g ref="char:EOLhyphen"/>pidity ſeizing all his ſenſes; his Eyes began to dim, his Hearing to fail him, a Qualm to ſeize his Stomach, which made the Gentleman look a little concern'd on the Jeſuit; who ſmil'd, and ſaid, Upon my Life you need fear no harm, I can tell you by its operation what's the reſult of it; you ſhall find him in a paſſionate fit of Love. Friend, ſayes he to the Servant, take this Glaſs of Wine, and you ſhall be well pre<g ref="char:EOLhyphen"/>ſently; but ordered the Gentleman to call the Drawer, and bid him put him upon the Bed, and cover him; in the mean while, the Gen<g ref="char:EOLhyphen"/>tleman asked him, whether he had invented
+<pb n="10" facs="tcp:41735:7"/>that Powder? he anſwered, no; one that was of the Society, an <hi>Adeptiſt,</hi> and great <hi>Pyrotech<g ref="char:EOLhyphen"/>nite</hi> invented it in Queen <hi>Elizabeths</hi> time, and here in <hi>England</hi> founded the <hi>Puritanical</hi> Order, which is ſince by degrees ſwarm'd into <hi>Presby<g ref="char:EOLhyphen"/>tery,</hi> Claſſical, Parochial, Provincial, Synodi<g ref="char:EOLhyphen"/>cal; in thoſe dayes <hi>Confidence</hi> was the general paſſion that the Engliſh were ſubject to; that begot <hi>Preſumption,</hi> which begot <hi>Predeſtination,</hi> which begot all manner of <hi>Villany;</hi> hence iſſu<g ref="char:EOLhyphen"/>ed ſpiritual <hi>Juſtification,</hi> the Devil and all. Hold, ſaid the Gentleman, we call them here Eng<g ref="char:EOLhyphen"/>liſh Jeſuits. Call them what you will, ſayes the other, had they Learning to their inclinations, we might fear them more than we do. It's true, they imitate us, and when parts concur, they are the fitteſt Incendiaries, and Miniſters of much activity; witneſs the late times, when they call'd us Murderers, and Thieves, while they were the Aſſaſſinators and Robbers. Vil<g ref="char:EOLhyphen"/>lany is ſo truly bred in the Bone, that it will never be removed but by Death. So mark the end of it, the Gentleman being weary of his diſcourſe, told him, he would go and ſee how
+<pb n="11" facs="tcp:41735:7"/>his Man did. The Jeſuit told him, he ſhould find him in a very loving humour, and ſo it fell out; the poor Fellow could not ſpeak, but was kiſſing the Pillow, his own Hands, em<g ref="char:EOLhyphen"/>bracing and hugging the Coverlet, clipping himſelf; with all the geſtures of a deep <hi>Amoretto.</hi> The Maſter was concern'd for his Servant, but the Jeſuit ſaid, he would be cured by the next Morning; now if he had any Vice, he might by inculcating of the oppoſite Virtue, fix him as he comes to himſelf; for whatever impreſ<g ref="char:EOLhyphen"/>ſion he received in that. Juncture, that would only remain with him which he then had ſtamp'd upon him. The Gentleman replyed, he ſaw enough, not to ſuffer his Servant to be any further tampered with; he cauſed one to ſit up all Night with him, who was next Morn<g ref="char:EOLhyphen"/>ing pretty well recovered, and ſaid, he was eaſy all the while, and thought he could be well ſatisfied to continue ſo always; he be<g ref="char:EOLhyphen"/>liev'd he was for ſome time bereft of his Senſes, nay, of the very power of thinking; but when he came to have any apprehenſion, nothing could be more eaſy, innocent and pleas'd than
+<pb n="12" facs="tcp:41735:8"/>he was; neither too hot, nor too cold, hun<g ref="char:EOLhyphen"/>gry nor thirſty; a fine tranquillity ſeiſed his Soul, with ſuch an equanimity, that he forgot all paſt injuries, and he had no thought of pains to come; he was in peace, amity, and concord with all the World; and that nothing troubled him now, but that he could not get out of his head, by and by, anon, anon, Sir, here, here, what do you want Gentlemen? Do you call here? This relation confirm'd the Gentleman that the Jeſuit was a Conjurer, and became much concern'd that he had not inquir'd his Lodging; for though his gratitude oblig'd him not to injure him, and that he held Friendſhip ſacred, yet the good of his Country he prefer'd before all, which made him enquire after his Pippin-Monger; for though he conſi<g ref="char:EOLhyphen"/>der'd particular obligations were great, yet he muſt not favour a Traytor againſt the general; and weighing theſe Events, ſuſpected the dan<g ref="char:EOLhyphen"/>ger of the conſequence.</p>
+            <p>I thought not the Nation ſome Years ago, ſo ſit to be preſented with this, as now, when there is no ſober perſon but muſt be convinced,
+<pb n="13" facs="tcp:41735:8"/>the Adage in Latine was not made without cauſe; <hi>Si cum Jeſuitis, non cum Jeſu itis.</hi> I have a natural averſion againſt theſe ſuper-intendents; our Saviour return'd Good for Evil, all ſorts of Jeſuits return Evil for Good; therefore more than the name, they have no relation to <hi>Jeſus.</hi> It's true comparatively they may be admitted as <hi>Daemoniſts;</hi> which paſs as well for Good as Evil Spirits; this diſtinguiſhes, all ſorts of Jeſuits are good only in pretence, but Diabolical in Deſign.</p>
+            <p>It's humbly ſubmitted, what abominable, horrid, odious, and deteſtable actions, they have offered upon <hi>England;</hi> and what the three Nations have ſuffered by the procure<g ref="char:EOLhyphen"/>ment of theſe Jeſuits? What Treache<g ref="char:EOLhyphen"/>rous Maſſacres, Direful Aſſaſſinations, by Remonſtrances, Covenants, and infa<g ref="char:EOLhyphen"/>mouſly prodigious Execrations, have been accumulated upon the King and Kingdom? God preſerve the Kings Sacred Perſon, the old Royaliſts, and plant Loyalty in every in<g ref="char:EOLhyphen"/>dividual Heart; and that all Jeſuits, their
+<pb n="14" facs="tcp:41735:9" rendition="simple:additions"/>Spawn, Products; and Effects, be quite ex<g ref="char:EOLhyphen"/>tirpated; then will Chriſts Church truly flou<g ref="char:EOLhyphen"/>riſh, and Neighbourly Love be at every Door, Houſe, Board and Bed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41735:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
